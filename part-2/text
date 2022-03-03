@@ -1,0 +1,4 @@
+Cipher Logic
+1. Vowels are turned into corresponding number
+2. Consonants are flipped to the other side of the alphabet.
+3. Special characters and upper-case letters are unaffected.
